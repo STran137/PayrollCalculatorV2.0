@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+---
+title: Payroll Calculator V2.0 | Python
+description: An overhauled Payroll Calculator now with a Python GUI that can render a chart and create a final a receipt via text file.
+image: CustomPCbuilder.png
+youtubeId: EbQGA_fLdBg
+---
 
-You can use the [editor on GitHub](https://github.com/STran137/PayrollCalculatorV2.0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<link rel="stylesheet" type="text/css" href="video-embed.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Intro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project meant a lot to me as it was an update for my first every programming project. It was interesting to see how I started off and where I currently am. The GUI aspect was the most enjoyable as fine-tuning every button and event was cool to see. I find Python much easier than Java in terms of syntax and I will continue to develop more projects using it. Besides the GUI, the biggest changes in this version are the options to visualize the data points in a donut graph and to print a receipt via a written text file. 
 
-```markdown
-Syntax highlighted code block
+# Reason for Updating
 
-# Header 1
-## Header 2
-### Header 3
+1. Improve Python  coding skills - Nothing better than practicing code on a project you want to do!
+1. Try out a GUI - It was quite fun, and I enjoyed tinkering around with the different features.
+1. Assess progress - This project has helped me realize how far I have come in my coding skills since I started. <br> I have improved but I will only keep getting better by reflecting on my past projects and upgrading them.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Live Demo
+Click on the YouTube video to see a live demo of the new and improved Payroll Calculator!
 
-**Bold** and _Italic_ and `Code` text
+{% include youtube.html id='wfpKIit3kJc' %}
 
-[Link](url) and ![Image](src)
-```
+# Checkout V1.0
+If you're interested to see what V1.0 was like and how much has changed, click the video below.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+{% include youtube.html id='KKPpZpa7beE' %}
 
-### Jekyll Themes
+# Future Improvements
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/STran137/PayrollCalculatorV2.0/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Better visuals
+* "What If" implementation that allows users to see differences in payroll with varying hours, pay, and taxes.
+* Option to scan text files and autofill fields that are then calculated 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
