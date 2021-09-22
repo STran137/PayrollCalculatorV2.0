@@ -1,7 +1,7 @@
 ---
-title: Payroll Calculator V2.0 | Python
+title: Payroll Calculator V2.0
 description: An overhauled Payroll Calculator now with a Python GUI that can render a chart and create a final a receipt via text file.
-image: CustomPCbuilder.png
+image: PayrollCalc.png
 youtubeId: EbQGA_fLdBg
 ---
 
@@ -16,7 +16,7 @@ This project meant a lot to me as it was an update for my first every programmin
 
 1. **Improve Python skills** - Nothing better than practicing code on a project you want to do!
 1. **Try out a GUI** - It was quite fun, and I enjoyed tinkering around with the different features.
-1. **Assess progress** - This project has helped me realize how far I have come in my coding skills since I started. <br> I have improved but I will only keep getting better by reflecting on my past projects and upgrading them.
+1. **Assess progress** - This project has helped me realize how far I have come in my coding skills since I started. I have improved but I will only keep getting better by reflecting on my past projects and upgrading them.
 
 
 # Live Demo
