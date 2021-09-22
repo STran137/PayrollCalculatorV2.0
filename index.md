@@ -16,7 +16,7 @@ This project meant a lot to me as it was an update for my first-ever programming
 
 1. **Improve Python skills** - Nothing better than practicing code on a project you want to do! Although the syntax is relatively simple, Python is powerful and ubiquitous in many applications. 
 1. **Try out a GUI** - I figured this would be a perfect opportunity to try out a GUI since I mentioned it as a possible improvement in V1.0. 
-1. **Assess progress** - This project has helped me realize how far I have come in my coding skills since I began. - Self-reflection is a great way to monitor your growth and goals. I will only continue to improve by revisiting projects like this and updating them.
+1. **Assess progress** - This project has helped me realize how far I have come in my coding skills since I began. Self-reflection is a great way to monitor your growth and goals. I will only continue to improve by revisiting projects like this and updating them.
 
 # Live Demo
 Click on the YouTube video to see a live demo of the new and improved Payroll Calculator!
