@@ -24,10 +24,7 @@ Click on the YouTube video to see a live demo of the new and improved Payroll Ca
 
 {% include youtube.html id='wfpKIit3kJc' %}
 
-# Checkout V1.0
-If you're interested to see what V1.0 was like and how much has changed, click the video below. Test
 
-{% include youtube.html id='KKPpZpa7beE' %}
 
 # Future Improvements
 
